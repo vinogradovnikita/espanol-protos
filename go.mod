@@ -1,4 +1,4 @@
-module protos
+module espanol-protos
 
 go 1.22
 
